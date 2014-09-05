@@ -18,25 +18,11 @@ using namespace std;
 
 int main()
 {
-    int const WINDOW_HEIGHT = 50;
-    int const WINDOW_WIDTH = 50;
-    //srand(time(NULL));
-
-     //Creates Screen
-    initscr();
-    curs_set(0); //cursor visibility
-
-    WINDOW * mainWindow = newwin(WINDOW_HEIGHT,WINDOW_WIDTH,0,0);
-
-    //Color Settings
-    start_color();
-    init_pair(1,COLOR_WHITE,COLOR_BLACK);
-    init_pair(2,COLOR_BLACK,COLOR_GREEN);
-    wbkgd(stdscr, COLOR_BLACK);
-    wbkgd(mainWindow, COLOR_PAIR(2));
-    cbreak();
-    refresh();
-    wrefresh(mainWindow);
+   // int const WINDOW_HEIGHT = 0;
+    //int const WINDOW_WIDTH = 0;
+    srand(time(NULL));
+    bool endGame = false;
+    int genCounter = 0;
 
     Cell *firstCell = new Cell;
     firstCell = createNewCell(0,0);
@@ -47,15 +33,51 @@ int main()
     firstCell->setPrevPtr(NULL);
     firstCell->setNextPtr(NULL);
 
-    createBoard(firstCell,mainWindow);
+    Cell *tempCell = new Cell;
+    tempCell = createNewCell(0,0);
+    tempCell->setUpPtr(NULL);
+    tempCell->setDownPtr(NULL);
+    tempCell->setLeftPtr(NULL);
+    tempCell->setRightPtr(NULL);
+    tempCell->setPrevPtr(NULL);
+    tempCell->setNextPtr(NULL);
+
+    createBoard(firstCell,tempCell);
+
+    cout << endl;
+
+    //printBoard(firstCell);
 
     assignUpDownPtr(firstCell);
+    assignUpDownPtr(tempCell);
+
+    assignDiagnals(firstCell);
+    assignDiagnals(tempCell);
+
+    findLiveNeighbors(tempCell);
+   // applyRules(firstCell,tempCell);
+    printBoard(tempCell);
+    tests(tempCell);
+
+   // printBoard(tempCell);
 
 
-    tests(firstCell);
+  //  tests(firstCell);
+//    tests(tempCell);
 
-    //printBoard(firstCell,mainWindow);
+  //  printBoard(tempCell);
 
-    endwin();
+    /*while(endGame == false)
+    {
+        cout << endl << currentString << genCounter << endl;
+        findLiveNeighbors(firstCell);
+        applyRules(firstCell);
+        printBoard(firstCell);
+        tests(firstCell);
+
+        genCounter++;
+        system("pause");
+    }*/
+
     return 0;
 }
