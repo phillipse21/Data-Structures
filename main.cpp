@@ -46,38 +46,21 @@ int main()
 
     cout << endl;
 
-    //printBoard(firstCell);
-
     assignUpDownPtr(firstCell);
     assignUpDownPtr(tempCell);
 
     assignDiagnals(firstCell);
     assignDiagnals(tempCell);
 
-    findLiveNeighbors(tempCell);
-   // applyRules(firstCell,tempCell);
-    printBoard(tempCell);
-    tests(tempCell);
+    printBoard(firstCell);
+    tests(firstCell);
 
-   // printBoard(tempCell);
-
-
-  //  tests(firstCell);
-//    tests(tempCell);
-
-  //  printBoard(tempCell);
-
-    /*while(endGame == false)
+    while(endGame == false)
     {
-        cout << endl << currentString << genCounter << endl;
-        findLiveNeighbors(firstCell);
-        applyRules(firstCell);
-        printBoard(firstCell);
-        tests(firstCell);
-
-        genCounter++;
-        system("pause");
-    }*/
+        findLiveNeighbors(tempCell);
+        applyRules(firstCell,tempCell);
+        printBoard(tempCell);
+    }
 
     return 0;
 }

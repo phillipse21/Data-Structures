@@ -648,31 +648,55 @@ void findLiveNeighbors(Cell *&firstCell)
     while(traversePtr->getNextPtr() != NULL)
     {
         traversePtr->setLiveNeighbors(0);
-/*
-        if(traversePtr->getUpPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
 
-        if(traversePtr->getDownPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
+        if(traversePtr->getUpPtr() != NULL)
+        {
+            if(traversePtr->getUpPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
 
-        if(traversePtr->getLeftPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
+        if(traversePtr->getDownPtr() != NULL)
+        {
+            if(traversePtr->getDownPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
 
-        if(traversePtr->getRightPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
+        if(traversePtr->getLeftPtr() != NULL)
+        {
+            if(traversePtr->getLeftPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
 
-        if(traversePtr->getTopLeftPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
+        if(traversePtr->getRightPtr() != NULL)
+        {
+            if(traversePtr->getRightPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
 
-        if(traversePtr->getTopRightPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
+        if(traversePtr->getTopLeftPtr() != NULL)
+        {
+            if(traversePtr->getTopLeftPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
 
-        if(traversePtr->getBottomLeftPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
+        if(traversePtr->getTopRightPtr() != NULL)
+        {
+            if(traversePtr->getTopRightPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
 
-        if(traversePtr->getBottomRightPtr()->getState() == 1)
-            traversePtr->addToLiveNeighbors();
-*/
+        if(traversePtr->getBottomLeftPtr() != NULL)
+        {
+            if(traversePtr->getBottomLeftPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
+
+        if(traversePtr->getBottomRightPtr() != NULL)
+        {
+            if(traversePtr->getBottomRightPtr()->getState() == 1)
+                traversePtr->addToLiveNeighbors();
+        }
+
         traversePtr = traversePtr->getNextPtr();
     }
 }
@@ -777,7 +801,6 @@ void printBoard(Cell *firstCell)
     //clears screen before every generation
     system("CLS");
 
-
     //print "*" if cell is alive
     while(traversePtr->getNextPtr() != NULL)
     {
@@ -798,7 +821,7 @@ void printBoard(Cell *firstCell)
             }
             else
             {
-                cout << "-";
+                cout << " ";
             }
         }
         traversePtr = traversePtr->getNextPtr();

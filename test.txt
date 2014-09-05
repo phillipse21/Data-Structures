@@ -12,7 +12,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 1
 1 0 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 2 0
    PrevPtr 0 0
@@ -38,7 +38,7 @@
    BottomLeftPtr 1 1
    BottomRightPtr 3 1
 3 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 0
    PrevPtr 2 0
@@ -64,7 +64,7 @@
    BottomLeftPtr 3 1
    BottomRightPtr 5 1
 5 0 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 0
    PrevPtr 4 0
@@ -103,7 +103,7 @@
    BottomLeftPtr 6 1
    BottomRightPtr 8 1
 8 0 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 9 0
    PrevPtr 7 0
@@ -168,7 +168,7 @@
    BottomLeftPtr 11 1
    BottomRightPtr 13 1
 13 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 0
    PrevPtr 12 0
@@ -207,7 +207,7 @@
    BottomLeftPtr 14 1
    BottomRightPtr 16 1
 16 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 17 0
    PrevPtr 15 0
@@ -259,7 +259,7 @@
    BottomLeftPtr 18 1
    BottomRightPtr 20 1
 20 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 21 0
    PrevPtr 19 0
@@ -285,7 +285,7 @@
    BottomLeftPtr 20 1
    BottomRightPtr 22 1
 22 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 0
    PrevPtr 21 0
@@ -298,7 +298,7 @@
    BottomLeftPtr 21 1
    BottomRightPtr 23 1
 23 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 24 0
    PrevPtr 22 0
@@ -350,7 +350,7 @@
    BottomLeftPtr 25 1
    BottomRightPtr 27 1
 27 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 28 0
    PrevPtr 26 0
@@ -363,7 +363,7 @@
    BottomLeftPtr 26 1
    BottomRightPtr 28 1
 28 0 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 1
    PrevPtr 27 0
@@ -415,7 +415,7 @@
    BottomLeftPtr 1 2
    BottomRightPtr 3 2
 3 1 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 1
    PrevPtr 2 1
@@ -467,7 +467,7 @@
    BottomLeftPtr 5 2
    BottomRightPtr 7 2
 7 1 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 1
    PrevPtr 6 1
@@ -480,7 +480,7 @@
    BottomLeftPtr 6 2
    BottomRightPtr 8 2
 8 1 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 1
    PrevPtr 7 1
@@ -506,7 +506,7 @@
    BottomLeftPtr 8 2
    BottomRightPtr 10 2
 10 1 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 11 1
    PrevPtr 9 1
@@ -545,7 +545,7 @@
    BottomLeftPtr 11 2
    BottomRightPtr 13 2
 13 1 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 1
    PrevPtr 12 1
@@ -584,7 +584,7 @@
    BottomLeftPtr 14 2
    BottomRightPtr 16 2
 16 1 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 1
    PrevPtr 15 1
@@ -623,7 +623,7 @@
    BottomLeftPtr 17 2
    BottomRightPtr 19 2
 19 1 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 1
    PrevPtr 18 1
@@ -649,7 +649,7 @@
    BottomLeftPtr 19 2
    BottomRightPtr 21 2
 21 1 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 22 1
    PrevPtr 20 1
@@ -675,7 +675,7 @@
    BottomLeftPtr 21 2
    BottomRightPtr 23 2
 23 1 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 1
    PrevPtr 22 1
@@ -688,7 +688,7 @@
    BottomLeftPtr 22 2
    BottomRightPtr 24 2
 24 1 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 1
    PrevPtr 23 1
@@ -753,7 +753,7 @@
    BottomLeftPtr 27 2
    BottomRightPtr NULL
 0 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 2
    PrevPtr 28 1
@@ -766,7 +766,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 3
 1 2 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 2
    PrevPtr 0 2
@@ -779,7 +779,7 @@
    BottomLeftPtr 0 3
    BottomRightPtr 2 3
 2 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 2
    PrevPtr 1 2
@@ -831,7 +831,7 @@
    BottomLeftPtr 4 3
    BottomRightPtr 6 3
 6 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 2
    PrevPtr 5 2
@@ -857,7 +857,7 @@
    BottomLeftPtr 6 3
    BottomRightPtr 8 3
 8 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 9 2
    PrevPtr 7 2
@@ -883,7 +883,7 @@
    BottomLeftPtr 8 3
    BottomRightPtr 10 3
 10 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 11 2
    PrevPtr 9 2
@@ -909,7 +909,7 @@
    BottomLeftPtr 10 3
    BottomRightPtr 12 3
 12 2 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 2
    PrevPtr 11 2
@@ -922,7 +922,7 @@
    BottomLeftPtr 11 3
    BottomRightPtr 13 3
 13 2 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 2
    PrevPtr 12 2
@@ -935,7 +935,7 @@
    BottomLeftPtr 12 3
    BottomRightPtr 14 3
 14 2 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 15 2
    PrevPtr 13 2
@@ -948,7 +948,7 @@
    BottomLeftPtr 13 3
    BottomRightPtr 15 3
 15 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 2
    PrevPtr 14 2
@@ -974,7 +974,7 @@
    BottomLeftPtr 15 3
    BottomRightPtr 17 3
 17 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 2
    PrevPtr 16 2
@@ -987,7 +987,7 @@
    BottomLeftPtr 16 3
    BottomRightPtr 18 3
 18 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 2
    PrevPtr 17 2
@@ -1026,7 +1026,7 @@
    BottomLeftPtr 19 3
    BottomRightPtr 21 3
 21 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 2
    PrevPtr 20 2
@@ -1039,7 +1039,7 @@
    BottomLeftPtr 20 3
    BottomRightPtr 22 3
 22 2 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 2
    PrevPtr 21 2
@@ -1065,7 +1065,7 @@
    BottomLeftPtr 22 3
    BottomRightPtr 24 3
 24 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 2
    PrevPtr 23 2
@@ -1078,7 +1078,7 @@
    BottomLeftPtr 23 3
    BottomRightPtr 25 3
 25 2 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 2
    PrevPtr 24 2
@@ -1117,7 +1117,7 @@
    BottomLeftPtr 26 3
    BottomRightPtr 28 3
 28 2 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 0 3
    PrevPtr 27 2
@@ -1130,7 +1130,7 @@
    BottomLeftPtr 27 3
    BottomRightPtr NULL
 0 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 3
    PrevPtr 28 2
@@ -1169,7 +1169,7 @@
    BottomLeftPtr 1 4
    BottomRightPtr 3 4
 3 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 3
    PrevPtr 2 3
@@ -1182,7 +1182,7 @@
    BottomLeftPtr 2 4
    BottomRightPtr 4 4
 4 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 3
    PrevPtr 3 3
@@ -1195,7 +1195,7 @@
    BottomLeftPtr 3 4
    BottomRightPtr 5 4
 5 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 6 3
    PrevPtr 4 3
@@ -1208,7 +1208,7 @@
    BottomLeftPtr 4 4
    BottomRightPtr 6 4
 6 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 3
    PrevPtr 5 3
@@ -1247,7 +1247,7 @@
    BottomLeftPtr 7 4
    BottomRightPtr 9 4
 9 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 3
    PrevPtr 8 3
@@ -1260,7 +1260,7 @@
    BottomLeftPtr 8 4
    BottomRightPtr 10 4
 10 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 11 3
    PrevPtr 9 3
@@ -1286,7 +1286,7 @@
    BottomLeftPtr 10 4
    BottomRightPtr 12 4
 12 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 3
    PrevPtr 11 3
@@ -1299,7 +1299,7 @@
    BottomLeftPtr 11 4
    BottomRightPtr 13 4
 13 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 3
    PrevPtr 12 3
@@ -1338,7 +1338,7 @@
    BottomLeftPtr 14 4
    BottomRightPtr 16 4
 16 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 17 3
    PrevPtr 15 3
@@ -1364,7 +1364,7 @@
    BottomLeftPtr 16 4
    BottomRightPtr 18 4
 18 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 3
    PrevPtr 17 3
@@ -1403,7 +1403,7 @@
    BottomLeftPtr 19 4
    BottomRightPtr 21 4
 21 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 3
    PrevPtr 20 3
@@ -1416,7 +1416,7 @@
    BottomLeftPtr 20 4
    BottomRightPtr 22 4
 22 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 3
    PrevPtr 21 3
@@ -1442,7 +1442,7 @@
    BottomLeftPtr 22 4
    BottomRightPtr 24 4
 24 3 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 3
    PrevPtr 23 3
@@ -1455,7 +1455,7 @@
    BottomLeftPtr 23 4
    BottomRightPtr 25 4
 25 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 3
    PrevPtr 24 3
@@ -1468,7 +1468,7 @@
    BottomLeftPtr 24 4
    BottomRightPtr 26 4
 26 3 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 3
    PrevPtr 25 3
@@ -1507,7 +1507,7 @@
    BottomLeftPtr 27 4
    BottomRightPtr NULL
 0 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 4
    PrevPtr 28 3
@@ -1520,7 +1520,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 5
 1 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 2 4
    PrevPtr 0 4
@@ -1533,7 +1533,7 @@
    BottomLeftPtr 0 5
    BottomRightPtr 2 5
 2 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 3 4
    PrevPtr 1 4
@@ -1546,7 +1546,7 @@
    BottomLeftPtr 1 5
    BottomRightPtr 3 5
 3 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 4
    PrevPtr 2 4
@@ -1559,7 +1559,7 @@
    BottomLeftPtr 2 5
    BottomRightPtr 4 5
 4 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 5 4
    PrevPtr 3 4
@@ -1572,7 +1572,7 @@
    BottomLeftPtr 3 5
    BottomRightPtr 5 5
 5 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 4
    PrevPtr 4 4
@@ -1585,7 +1585,7 @@
    BottomLeftPtr 4 5
    BottomRightPtr 6 5
 6 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 4
    PrevPtr 5 4
@@ -1624,7 +1624,7 @@
    BottomLeftPtr 7 5
    BottomRightPtr 9 5
 9 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 4
    PrevPtr 8 4
@@ -1637,7 +1637,7 @@
    BottomLeftPtr 8 5
    BottomRightPtr 10 5
 10 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 11 4
    PrevPtr 9 4
@@ -1676,7 +1676,7 @@
    BottomLeftPtr 11 5
    BottomRightPtr 13 5
 13 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 4
    PrevPtr 12 4
@@ -1689,7 +1689,7 @@
    BottomLeftPtr 12 5
    BottomRightPtr 14 5
 14 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 15 4
    PrevPtr 13 4
@@ -1702,7 +1702,7 @@
    BottomLeftPtr 13 5
    BottomRightPtr 15 5
 15 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 4
    PrevPtr 14 4
@@ -1715,7 +1715,7 @@
    BottomLeftPtr 14 5
    BottomRightPtr 16 5
 16 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 4
    PrevPtr 15 4
@@ -1728,7 +1728,7 @@
    BottomLeftPtr 15 5
    BottomRightPtr 17 5
 17 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 18 4
    PrevPtr 16 4
@@ -1767,7 +1767,7 @@
    BottomLeftPtr 18 5
    BottomRightPtr 20 5
 20 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 21 4
    PrevPtr 19 4
@@ -1780,7 +1780,7 @@
    BottomLeftPtr 19 5
    BottomRightPtr 21 5
 21 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 22 4
    PrevPtr 20 4
@@ -1793,7 +1793,7 @@
    BottomLeftPtr 20 5
    BottomRightPtr 22 5
 22 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 4
    PrevPtr 21 4
@@ -1832,7 +1832,7 @@
    BottomLeftPtr 23 5
    BottomRightPtr 25 5
 25 4 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 4
    PrevPtr 24 4
@@ -1871,7 +1871,7 @@
    BottomLeftPtr 26 5
    BottomRightPtr 28 5
 28 4 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 0 5
    PrevPtr 27 4
@@ -1910,7 +1910,7 @@
    BottomLeftPtr 0 6
    BottomRightPtr 2 6
 2 5 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 5
    PrevPtr 1 5
@@ -1923,7 +1923,7 @@
    BottomLeftPtr 1 6
    BottomRightPtr 3 6
 3 5 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 5
    PrevPtr 2 5
@@ -1936,7 +1936,7 @@
    BottomLeftPtr 2 6
    BottomRightPtr 4 6
 4 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 5
    PrevPtr 3 5
@@ -1949,7 +1949,7 @@
    BottomLeftPtr 3 6
    BottomRightPtr 5 6
 5 5 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 5
    PrevPtr 4 5
@@ -2001,7 +2001,7 @@
    BottomLeftPtr 7 6
    BottomRightPtr 9 6
 9 5 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 5
    PrevPtr 8 5
@@ -2014,7 +2014,7 @@
    BottomLeftPtr 8 6
    BottomRightPtr 10 6
 10 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 11 5
    PrevPtr 9 5
@@ -2027,7 +2027,7 @@
    BottomLeftPtr 9 6
    BottomRightPtr 11 6
 11 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 12 5
    PrevPtr 10 5
@@ -2040,7 +2040,7 @@
    BottomLeftPtr 10 6
    BottomRightPtr 12 6
 12 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 5
    PrevPtr 11 5
@@ -2053,7 +2053,7 @@
    BottomLeftPtr 11 6
    BottomRightPtr 13 6
 13 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 5
    PrevPtr 12 5
@@ -2092,7 +2092,7 @@
    BottomLeftPtr 14 6
    BottomRightPtr 16 6
 16 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 17 5
    PrevPtr 15 5
@@ -2105,7 +2105,7 @@
    BottomLeftPtr 15 6
    BottomRightPtr 17 6
 17 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 18 5
    PrevPtr 16 5
@@ -2118,7 +2118,7 @@
    BottomLeftPtr 16 6
    BottomRightPtr 18 6
 18 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 5
    PrevPtr 17 5
@@ -2170,7 +2170,7 @@
    BottomLeftPtr 20 6
    BottomRightPtr 22 6
 22 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 5
    PrevPtr 21 5
@@ -2183,7 +2183,7 @@
    BottomLeftPtr 21 6
    BottomRightPtr 23 6
 23 5 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 5
    PrevPtr 22 5
@@ -2196,7 +2196,7 @@
    BottomLeftPtr 22 6
    BottomRightPtr 24 6
 24 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 5
    PrevPtr 23 5
@@ -2222,7 +2222,7 @@
    BottomLeftPtr 24 6
    BottomRightPtr 26 6
 26 5 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 27 5
    PrevPtr 25 5
@@ -2235,7 +2235,7 @@
    BottomLeftPtr 25 6
    BottomRightPtr 27 6
 27 5 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 5
    PrevPtr 26 5
@@ -2261,7 +2261,7 @@
    BottomLeftPtr 27 6
    BottomRightPtr NULL
 0 6 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 6
    PrevPtr 28 5
@@ -2274,7 +2274,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 7
 1 6 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 6
    PrevPtr 0 6
@@ -2300,7 +2300,7 @@
    BottomLeftPtr 1 7
    BottomRightPtr 3 7
 3 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 6
    PrevPtr 2 6
@@ -2339,7 +2339,7 @@
    BottomLeftPtr 4 7
    BottomRightPtr 6 7
 6 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 6
    PrevPtr 5 6
@@ -2352,7 +2352,7 @@
    BottomLeftPtr 5 7
    BottomRightPtr 7 7
 7 6 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 6
    PrevPtr 6 6
@@ -2365,7 +2365,7 @@
    BottomLeftPtr 6 7
    BottomRightPtr 8 7
 8 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 9 6
    PrevPtr 7 6
@@ -2378,7 +2378,7 @@
    BottomLeftPtr 7 7
    BottomRightPtr 9 7
 9 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 6
    PrevPtr 8 6
@@ -2417,7 +2417,7 @@
    BottomLeftPtr 10 7
    BottomRightPtr 12 7
 12 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 6
    PrevPtr 11 6
@@ -2430,7 +2430,7 @@
    BottomLeftPtr 11 7
    BottomRightPtr 13 7
 13 6 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 6
    PrevPtr 12 6
@@ -2443,7 +2443,7 @@
    BottomLeftPtr 12 7
    BottomRightPtr 14 7
 14 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 6
    PrevPtr 13 6
@@ -2482,7 +2482,7 @@
    BottomLeftPtr 15 7
    BottomRightPtr 17 7
 17 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 6
    PrevPtr 16 6
@@ -2495,7 +2495,7 @@
    BottomLeftPtr 16 7
    BottomRightPtr 18 7
 18 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 6
    PrevPtr 17 6
@@ -2508,7 +2508,7 @@
    BottomLeftPtr 17 7
    BottomRightPtr 19 7
 19 6 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 6
    PrevPtr 18 6
@@ -2547,7 +2547,7 @@
    BottomLeftPtr 20 7
    BottomRightPtr 22 7
 22 6 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 6
    PrevPtr 21 6
@@ -2560,7 +2560,7 @@
    BottomLeftPtr 21 7
    BottomRightPtr 23 7
 23 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 6
    PrevPtr 22 6
@@ -2586,7 +2586,7 @@
    BottomLeftPtr 23 7
    BottomRightPtr 25 7
 25 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 6
    PrevPtr 24 6
@@ -2599,7 +2599,7 @@
    BottomLeftPtr 24 7
    BottomRightPtr 26 7
 26 6 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 6
    PrevPtr 25 6
@@ -2638,7 +2638,7 @@
    BottomLeftPtr 27 7
    BottomRightPtr NULL
 0 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 7
    PrevPtr 28 6
@@ -2690,7 +2690,7 @@
    BottomLeftPtr 2 8
    BottomRightPtr 4 8
 4 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 7
    PrevPtr 3 7
@@ -2703,7 +2703,7 @@
    BottomLeftPtr 3 8
    BottomRightPtr 5 8
 5 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 6 7
    PrevPtr 4 7
@@ -2716,7 +2716,7 @@
    BottomLeftPtr 4 8
    BottomRightPtr 6 8
 6 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 7
    PrevPtr 5 7
@@ -2742,7 +2742,7 @@
    BottomLeftPtr 6 8
    BottomRightPtr 8 8
 8 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 7
    PrevPtr 7 7
@@ -2755,7 +2755,7 @@
    BottomLeftPtr 7 8
    BottomRightPtr 9 8
 9 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 7
    PrevPtr 8 7
@@ -2794,7 +2794,7 @@
    BottomLeftPtr 10 8
    BottomRightPtr 12 8
 12 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 7
    PrevPtr 11 7
@@ -2833,7 +2833,7 @@
    BottomLeftPtr 13 8
    BottomRightPtr 15 8
 15 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 7
    PrevPtr 14 7
@@ -2859,7 +2859,7 @@
    BottomLeftPtr 15 8
    BottomRightPtr 17 8
 17 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 18 7
    PrevPtr 16 7
@@ -2898,7 +2898,7 @@
    BottomLeftPtr 18 8
    BottomRightPtr 20 8
 20 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 7
    PrevPtr 19 7
@@ -2924,7 +2924,7 @@
    BottomLeftPtr 20 8
    BottomRightPtr 22 8
 22 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 23 7
    PrevPtr 21 7
@@ -2963,7 +2963,7 @@
    BottomLeftPtr 23 8
    BottomRightPtr 25 8
 25 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 7
    PrevPtr 24 7
@@ -2976,7 +2976,7 @@
    BottomLeftPtr 24 8
    BottomRightPtr 26 8
 26 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 7
    PrevPtr 25 7
@@ -2989,7 +2989,7 @@
    BottomLeftPtr 25 8
    BottomRightPtr 27 8
 27 7 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 7
    PrevPtr 26 7
@@ -3002,7 +3002,7 @@
    BottomLeftPtr 26 8
    BottomRightPtr 28 8
 28 7 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 8
    PrevPtr 27 7
@@ -3015,7 +3015,7 @@
    BottomLeftPtr 27 8
    BottomRightPtr NULL
 0 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 8
    PrevPtr 28 7
@@ -3028,7 +3028,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 9
 1 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 8
    PrevPtr 0 8
@@ -3041,7 +3041,7 @@
    BottomLeftPtr 0 9
    BottomRightPtr 2 9
 2 8 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 8
    PrevPtr 1 8
@@ -3067,7 +3067,7 @@
    BottomLeftPtr 2 9
    BottomRightPtr 4 9
 4 8 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 5 8
    PrevPtr 3 8
@@ -3106,7 +3106,7 @@
    BottomLeftPtr 5 9
    BottomRightPtr 7 9
 7 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 8
    PrevPtr 6 8
@@ -3132,7 +3132,7 @@
    BottomLeftPtr 7 9
    BottomRightPtr 9 9
 9 8 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 8
    PrevPtr 8 8
@@ -3171,7 +3171,7 @@
    BottomLeftPtr 10 9
    BottomRightPtr 12 9
 12 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 8
    PrevPtr 11 8
@@ -3184,7 +3184,7 @@
    BottomLeftPtr 11 9
    BottomRightPtr 13 9
 13 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 8
    PrevPtr 12 8
@@ -3223,7 +3223,7 @@
    BottomLeftPtr 14 9
    BottomRightPtr 16 9
 16 8 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 8
    PrevPtr 15 8
@@ -3262,7 +3262,7 @@
    BottomLeftPtr 17 9
    BottomRightPtr 19 9
 19 8 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 8
    PrevPtr 18 8
@@ -3275,7 +3275,7 @@
    BottomLeftPtr 18 9
    BottomRightPtr 20 9
 20 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 21 8
    PrevPtr 19 8
@@ -3314,7 +3314,7 @@
    BottomLeftPtr 21 9
    BottomRightPtr 23 9
 23 8 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 24 8
    PrevPtr 22 8
@@ -3353,7 +3353,7 @@
    BottomLeftPtr 24 9
    BottomRightPtr 26 9
 26 8 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 8
    PrevPtr 25 8
@@ -3392,7 +3392,7 @@
    BottomLeftPtr 27 9
    BottomRightPtr NULL
 0 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 9
    PrevPtr 28 8
@@ -3431,7 +3431,7 @@
    BottomLeftPtr 1 10
    BottomRightPtr 3 10
 3 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 9
    PrevPtr 2 9
@@ -3444,7 +3444,7 @@
    BottomLeftPtr 2 10
    BottomRightPtr 4 10
 4 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 9
    PrevPtr 3 9
@@ -3457,7 +3457,7 @@
    BottomLeftPtr 3 10
    BottomRightPtr 5 10
 5 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 6 9
    PrevPtr 4 9
@@ -3470,7 +3470,7 @@
    BottomLeftPtr 4 10
    BottomRightPtr 6 10
 6 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 9
    PrevPtr 5 9
@@ -3483,7 +3483,7 @@
    BottomLeftPtr 5 10
    BottomRightPtr 7 10
 7 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 9
    PrevPtr 6 9
@@ -3496,7 +3496,7 @@
    BottomLeftPtr 6 10
    BottomRightPtr 8 10
 8 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 9 9
    PrevPtr 7 9
@@ -3522,7 +3522,7 @@
    BottomLeftPtr 8 10
    BottomRightPtr 10 10
 10 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 11 9
    PrevPtr 9 9
@@ -3561,7 +3561,7 @@
    BottomLeftPtr 11 10
    BottomRightPtr 13 10
 13 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 9
    PrevPtr 12 9
@@ -3587,7 +3587,7 @@
    BottomLeftPtr 13 10
    BottomRightPtr 15 10
 15 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 9
    PrevPtr 14 9
@@ -3613,7 +3613,7 @@
    BottomLeftPtr 15 10
    BottomRightPtr 17 10
 17 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 9
    PrevPtr 16 9
@@ -3626,7 +3626,7 @@
    BottomLeftPtr 16 10
    BottomRightPtr 18 10
 18 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 9
    PrevPtr 17 9
@@ -3639,7 +3639,7 @@
    BottomLeftPtr 17 10
    BottomRightPtr 19 10
 19 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 9
    PrevPtr 18 9
@@ -3678,7 +3678,7 @@
    BottomLeftPtr 20 10
    BottomRightPtr 22 10
 22 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 23 9
    PrevPtr 21 9
@@ -3717,7 +3717,7 @@
    BottomLeftPtr 23 10
    BottomRightPtr 25 10
 25 9 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 9
    PrevPtr 24 9
@@ -3743,7 +3743,7 @@
    BottomLeftPtr 25 10
    BottomRightPtr 27 10
 27 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 28 9
    PrevPtr 26 9
@@ -3756,7 +3756,7 @@
    BottomLeftPtr 26 10
    BottomRightPtr 28 10
 28 9 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 10
    PrevPtr 27 9
@@ -3769,7 +3769,7 @@
    BottomLeftPtr 27 10
    BottomRightPtr NULL
 0 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 10
    PrevPtr 28 9
@@ -3847,7 +3847,7 @@
    BottomLeftPtr 4 11
    BottomRightPtr 6 11
 6 10 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 10
    PrevPtr 5 10
@@ -3860,7 +3860,7 @@
    BottomLeftPtr 5 11
    BottomRightPtr 7 11
 7 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 8 10
    PrevPtr 6 10
@@ -3886,7 +3886,7 @@
    BottomLeftPtr 7 11
    BottomRightPtr 9 11
 9 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 10
    PrevPtr 8 10
@@ -3899,7 +3899,7 @@
    BottomLeftPtr 8 11
    BottomRightPtr 10 11
 10 10 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 11 10
    PrevPtr 9 10
@@ -3912,7 +3912,7 @@
    BottomLeftPtr 9 11
    BottomRightPtr 11 11
 11 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 12 10
    PrevPtr 10 10
@@ -3925,7 +3925,7 @@
    BottomLeftPtr 10 11
    BottomRightPtr 12 11
 12 10 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 10
    PrevPtr 11 10
@@ -3938,7 +3938,7 @@
    BottomLeftPtr 11 11
    BottomRightPtr 13 11
 13 10 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 10
    PrevPtr 12 10
@@ -3964,7 +3964,7 @@
    BottomLeftPtr 13 11
    BottomRightPtr 15 11
 15 10 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 16 10
    PrevPtr 14 10
@@ -3977,7 +3977,7 @@
    BottomLeftPtr 14 11
    BottomRightPtr 16 11
 16 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 10
    PrevPtr 15 10
@@ -4003,7 +4003,7 @@
    BottomLeftPtr 16 11
    BottomRightPtr 18 11
 18 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 10
    PrevPtr 17 10
@@ -4042,7 +4042,7 @@
    BottomLeftPtr 19 11
    BottomRightPtr 21 11
 21 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 10
    PrevPtr 20 10
@@ -4081,7 +4081,7 @@
    BottomLeftPtr 22 11
    BottomRightPtr 24 11
 24 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 10
    PrevPtr 23 10
@@ -4120,7 +4120,7 @@
    BottomLeftPtr 25 11
    BottomRightPtr 27 11
 27 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 10
    PrevPtr 26 10
@@ -4133,7 +4133,7 @@
    BottomLeftPtr 26 11
    BottomRightPtr 28 11
 28 10 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 0 11
    PrevPtr 27 10
@@ -4146,7 +4146,7 @@
    BottomLeftPtr 27 11
    BottomRightPtr NULL
 0 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 11
    PrevPtr 28 10
@@ -4159,7 +4159,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 12
 1 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 2 11
    PrevPtr 0 11
@@ -4172,7 +4172,7 @@
    BottomLeftPtr 0 12
    BottomRightPtr 2 12
 2 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 3 11
    PrevPtr 1 11
@@ -4185,7 +4185,7 @@
    BottomLeftPtr 1 12
    BottomRightPtr 3 12
 3 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 11
    PrevPtr 2 11
@@ -4250,7 +4250,7 @@
    BottomLeftPtr 6 12
    BottomRightPtr 8 12
 8 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 11
    PrevPtr 7 11
@@ -4289,7 +4289,7 @@
    BottomLeftPtr 9 12
    BottomRightPtr 11 12
 11 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 12 11
    PrevPtr 10 11
@@ -4315,7 +4315,7 @@
    BottomLeftPtr 11 12
    BottomRightPtr 13 12
 13 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 11
    PrevPtr 12 11
@@ -4328,7 +4328,7 @@
    BottomLeftPtr 12 12
    BottomRightPtr 14 12
 14 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 15 11
    PrevPtr 13 11
@@ -4341,7 +4341,7 @@
    BottomLeftPtr 13 12
    BottomRightPtr 15 12
 15 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 11
    PrevPtr 14 11
@@ -4380,7 +4380,7 @@
    BottomLeftPtr 16 12
    BottomRightPtr 18 12
 18 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 11
    PrevPtr 17 11
@@ -4393,7 +4393,7 @@
    BottomLeftPtr 17 12
    BottomRightPtr 19 12
 19 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 11
    PrevPtr 18 11
@@ -4419,7 +4419,7 @@
    BottomLeftPtr 19 12
    BottomRightPtr 21 12
 21 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 11
    PrevPtr 20 11
@@ -4471,7 +4471,7 @@
    BottomLeftPtr 23 12
    BottomRightPtr 25 12
 25 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 11
    PrevPtr 24 11
@@ -4484,7 +4484,7 @@
    BottomLeftPtr 24 12
    BottomRightPtr 26 12
 26 11 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 11
    PrevPtr 25 11
@@ -4497,7 +4497,7 @@
    BottomLeftPtr 25 12
    BottomRightPtr 27 12
 27 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 28 11
    PrevPtr 26 11
@@ -4510,7 +4510,7 @@
    BottomLeftPtr 26 12
    BottomRightPtr 28 12
 28 11 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 12
    PrevPtr 27 11
@@ -4523,7 +4523,7 @@
    BottomLeftPtr 27 12
    BottomRightPtr NULL
 0 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 12
    PrevPtr 28 11
@@ -4562,7 +4562,7 @@
    BottomLeftPtr 1 13
    BottomRightPtr 3 13
 3 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 12
    PrevPtr 2 12
@@ -4575,7 +4575,7 @@
    BottomLeftPtr 2 13
    BottomRightPtr 4 13
 4 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 5 12
    PrevPtr 3 12
@@ -4588,7 +4588,7 @@
    BottomLeftPtr 3 13
    BottomRightPtr 5 13
 5 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 12
    PrevPtr 4 12
@@ -4601,7 +4601,7 @@
    BottomLeftPtr 4 13
    BottomRightPtr 6 13
 6 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 12
    PrevPtr 5 12
@@ -4627,7 +4627,7 @@
    BottomLeftPtr 6 13
    BottomRightPtr 8 13
 8 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 12
    PrevPtr 7 12
@@ -4640,7 +4640,7 @@
    BottomLeftPtr 7 13
    BottomRightPtr 9 13
 9 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 12
    PrevPtr 8 12
@@ -4653,7 +4653,7 @@
    BottomLeftPtr 8 13
    BottomRightPtr 10 13
 10 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 11 12
    PrevPtr 9 12
@@ -4666,7 +4666,7 @@
    BottomLeftPtr 9 13
    BottomRightPtr 11 13
 11 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 12 12
    PrevPtr 10 12
@@ -4692,7 +4692,7 @@
    BottomLeftPtr 11 13
    BottomRightPtr 13 13
 13 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 12
    PrevPtr 12 12
@@ -4705,7 +4705,7 @@
    BottomLeftPtr 12 13
    BottomRightPtr 14 13
 14 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 12
    PrevPtr 13 12
@@ -4718,7 +4718,7 @@
    BottomLeftPtr 13 13
    BottomRightPtr 15 13
 15 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 16 12
    PrevPtr 14 12
@@ -4731,7 +4731,7 @@
    BottomLeftPtr 14 13
    BottomRightPtr 16 13
 16 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 12
    PrevPtr 15 12
@@ -4744,7 +4744,7 @@
    BottomLeftPtr 15 13
    BottomRightPtr 17 13
 17 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 12
    PrevPtr 16 12
@@ -4757,7 +4757,7 @@
    BottomLeftPtr 16 13
    BottomRightPtr 18 13
 18 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 12
    PrevPtr 17 12
@@ -4770,7 +4770,7 @@
    BottomLeftPtr 17 13
    BottomRightPtr 19 13
 19 12 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 12
    PrevPtr 18 12
@@ -4809,7 +4809,7 @@
    BottomLeftPtr 20 13
    BottomRightPtr 22 13
 22 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 12
    PrevPtr 21 12
@@ -4835,7 +4835,7 @@
    BottomLeftPtr 22 13
    BottomRightPtr 24 13
 24 12 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 12
    PrevPtr 23 12
@@ -4900,7 +4900,7 @@
    BottomLeftPtr 27 13
    BottomRightPtr NULL
 0 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 13
    PrevPtr 28 12
@@ -4926,7 +4926,7 @@
    BottomLeftPtr 0 14
    BottomRightPtr 2 14
 2 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 3 13
    PrevPtr 1 13
@@ -4939,7 +4939,7 @@
    BottomLeftPtr 1 14
    BottomRightPtr 3 14
 3 13 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 13
    PrevPtr 2 13
@@ -4965,7 +4965,7 @@
    BottomLeftPtr 3 14
    BottomRightPtr 5 14
 5 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 6 13
    PrevPtr 4 13
@@ -4991,7 +4991,7 @@
    BottomLeftPtr 5 14
    BottomRightPtr 7 14
 7 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 13
    PrevPtr 6 13
@@ -5017,7 +5017,7 @@
    BottomLeftPtr 7 14
    BottomRightPtr 9 14
 9 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 13
    PrevPtr 8 13
@@ -5043,7 +5043,7 @@
    BottomLeftPtr 9 14
    BottomRightPtr 11 14
 11 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 12 13
    PrevPtr 10 13
@@ -5056,7 +5056,7 @@
    BottomLeftPtr 10 14
    BottomRightPtr 12 14
 12 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 13
    PrevPtr 11 13
@@ -5069,7 +5069,7 @@
    BottomLeftPtr 11 14
    BottomRightPtr 13 14
 13 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 13
    PrevPtr 12 13
@@ -5095,7 +5095,7 @@
    BottomLeftPtr 13 14
    BottomRightPtr 15 14
 15 13 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 13
    PrevPtr 14 13
@@ -5173,7 +5173,7 @@
    BottomLeftPtr 19 14
    BottomRightPtr 21 14
 21 13 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 13
    PrevPtr 20 13
@@ -5199,7 +5199,7 @@
    BottomLeftPtr 21 14
    BottomRightPtr 23 14
 23 13 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 13
    PrevPtr 22 13
@@ -5212,7 +5212,7 @@
    BottomLeftPtr 22 14
    BottomRightPtr 24 14
 24 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 13
    PrevPtr 23 13
@@ -5225,7 +5225,7 @@
    BottomLeftPtr 23 14
    BottomRightPtr 25 14
 25 13 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 13
    PrevPtr 24 13
@@ -5264,7 +5264,7 @@
    BottomLeftPtr 26 14
    BottomRightPtr 28 14
 28 13 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 0 14
    PrevPtr 27 13
@@ -5277,7 +5277,7 @@
    BottomLeftPtr 27 14
    BottomRightPtr NULL
 0 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 14
    PrevPtr 28 13
@@ -5342,7 +5342,7 @@
    BottomLeftPtr 3 15
    BottomRightPtr 5 15
 5 14 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 14
    PrevPtr 4 14
@@ -5394,7 +5394,7 @@
    BottomLeftPtr 7 15
    BottomRightPtr 9 15
 9 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 14
    PrevPtr 8 14
@@ -5433,7 +5433,7 @@
    BottomLeftPtr 10 15
    BottomRightPtr 12 15
 12 14 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 14
    PrevPtr 11 14
@@ -5537,7 +5537,7 @@
    BottomLeftPtr 18 15
    BottomRightPtr 20 15
 20 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 21 14
    PrevPtr 19 14
@@ -5563,7 +5563,7 @@
    BottomLeftPtr 20 15
    BottomRightPtr 22 15
 22 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 14
    PrevPtr 21 14
@@ -5602,7 +5602,7 @@
    BottomLeftPtr 23 15
    BottomRightPtr 25 15
 25 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 14
    PrevPtr 24 14
@@ -5615,7 +5615,7 @@
    BottomLeftPtr 24 15
    BottomRightPtr 26 15
 26 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 27 14
    PrevPtr 25 14
@@ -5628,7 +5628,7 @@
    BottomLeftPtr 25 15
    BottomRightPtr 27 15
 27 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 28 14
    PrevPtr 26 14
@@ -5641,7 +5641,7 @@
    BottomLeftPtr 26 15
    BottomRightPtr 28 15
 28 14 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 15
    PrevPtr 27 14
@@ -5654,7 +5654,7 @@
    BottomLeftPtr 27 15
    BottomRightPtr NULL
 0 15 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 15
    PrevPtr 28 14
@@ -5667,7 +5667,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 16
 1 15 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 15
    PrevPtr 0 15
@@ -5706,7 +5706,7 @@
    BottomLeftPtr 2 16
    BottomRightPtr 4 16
 4 15 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 15
    PrevPtr 3 15
@@ -5771,7 +5771,7 @@
    BottomLeftPtr 7 16
    BottomRightPtr 9 16
 9 15 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 15
    PrevPtr 8 15
@@ -5784,7 +5784,7 @@
    BottomLeftPtr 8 16
    BottomRightPtr 10 16
 10 15 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 11 15
    PrevPtr 9 15
@@ -5823,7 +5823,7 @@
    BottomLeftPtr 11 16
    BottomRightPtr 13 16
 13 15 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 15
    PrevPtr 12 15
@@ -5836,7 +5836,7 @@
    BottomLeftPtr 12 16
    BottomRightPtr 14 16
 14 15 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 15
    PrevPtr 13 15
@@ -5862,7 +5862,7 @@
    BottomLeftPtr 14 16
    BottomRightPtr 16 16
 16 15 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 15
    PrevPtr 15 15
@@ -5888,7 +5888,7 @@
    BottomLeftPtr 16 16
    BottomRightPtr 18 16
 18 15 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 15
    PrevPtr 17 15
@@ -5901,7 +5901,7 @@
    BottomLeftPtr 17 16
    BottomRightPtr 19 16
 19 15 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 15
    PrevPtr 18 15
@@ -5914,7 +5914,7 @@
    BottomLeftPtr 18 16
    BottomRightPtr 20 16
 20 15 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 15
    PrevPtr 19 15
@@ -5927,7 +5927,7 @@
    BottomLeftPtr 19 16
    BottomRightPtr 21 16
 21 15 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 15
    PrevPtr 20 15
@@ -6031,7 +6031,7 @@
    BottomLeftPtr 27 16
    BottomRightPtr NULL
 0 16 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 16
    PrevPtr 28 15
@@ -6070,7 +6070,7 @@
    BottomLeftPtr 1 17
    BottomRightPtr 3 17
 3 16 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 16
    PrevPtr 2 16
@@ -6109,7 +6109,7 @@
    BottomLeftPtr 4 17
    BottomRightPtr 6 17
 6 16 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 16
    PrevPtr 5 16
@@ -6148,7 +6148,7 @@
    BottomLeftPtr 7 17
    BottomRightPtr 9 17
 9 16 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 16
    PrevPtr 8 16
@@ -6161,7 +6161,7 @@
    BottomLeftPtr 8 17
    BottomRightPtr 10 17
 10 16 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 11 16
    PrevPtr 9 16
@@ -6200,7 +6200,7 @@
    BottomLeftPtr 11 17
    BottomRightPtr 13 17
 13 16 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 16
    PrevPtr 12 16
@@ -6265,7 +6265,7 @@
    BottomLeftPtr 16 17
    BottomRightPtr 18 17
 18 16 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 16
    PrevPtr 17 16
@@ -6278,7 +6278,7 @@
    BottomLeftPtr 17 17
    BottomRightPtr 19 17
 19 16 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 16
    PrevPtr 18 16
@@ -6291,7 +6291,7 @@
    BottomLeftPtr 18 17
    BottomRightPtr 20 17
 20 16 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 21 16
    PrevPtr 19 16
@@ -6304,7 +6304,7 @@
    BottomLeftPtr 19 17
    BottomRightPtr 21 17
 21 16 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 22 16
    PrevPtr 20 16
@@ -6356,7 +6356,7 @@
    BottomLeftPtr 23 17
    BottomRightPtr 25 17
 25 16 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 16
    PrevPtr 24 16
@@ -6382,7 +6382,7 @@
    BottomLeftPtr 25 17
    BottomRightPtr 27 17
 27 16 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 16
    PrevPtr 26 16
@@ -6434,7 +6434,7 @@
    BottomLeftPtr 0 18
    BottomRightPtr 2 18
 2 17 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 17
    PrevPtr 1 17
@@ -6447,7 +6447,7 @@
    BottomLeftPtr 1 18
    BottomRightPtr 3 18
 3 17 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 17
    PrevPtr 2 17
@@ -6473,7 +6473,7 @@
    BottomLeftPtr 3 18
    BottomRightPtr 5 18
 5 17 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 17
    PrevPtr 4 17
@@ -6512,7 +6512,7 @@
    BottomLeftPtr 6 18
    BottomRightPtr 8 18
 8 17 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 17
    PrevPtr 7 17
@@ -6525,7 +6525,7 @@
    BottomLeftPtr 7 18
    BottomRightPtr 9 18
 9 17 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 17
    PrevPtr 8 17
@@ -6577,7 +6577,7 @@
    BottomLeftPtr 11 18
    BottomRightPtr 13 18
 13 17 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 17
    PrevPtr 12 17
@@ -6655,7 +6655,7 @@
    BottomLeftPtr 17 18
    BottomRightPtr 19 18
 19 17 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 17
    PrevPtr 18 17
@@ -6681,7 +6681,7 @@
    BottomLeftPtr 19 18
    BottomRightPtr 21 18
 21 17 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 17
    PrevPtr 20 17
@@ -6707,7 +6707,7 @@
    BottomLeftPtr 21 18
    BottomRightPtr 23 18
 23 17 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 24 17
    PrevPtr 22 17
@@ -6720,7 +6720,7 @@
    BottomLeftPtr 22 18
    BottomRightPtr 24 18
 24 17 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 17
    PrevPtr 23 17
@@ -6798,7 +6798,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 19
 1 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 18
    PrevPtr 0 18
@@ -6824,7 +6824,7 @@
    BottomLeftPtr 1 19
    BottomRightPtr 3 19
 3 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 18
    PrevPtr 2 18
@@ -6863,7 +6863,7 @@
    BottomLeftPtr 4 19
    BottomRightPtr 6 19
 6 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 18
    PrevPtr 5 18
@@ -6889,7 +6889,7 @@
    BottomLeftPtr 6 19
    BottomRightPtr 8 19
 8 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 18
    PrevPtr 7 18
@@ -6902,7 +6902,7 @@
    BottomLeftPtr 7 19
    BottomRightPtr 9 19
 9 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 18
    PrevPtr 8 18
@@ -6928,7 +6928,7 @@
    BottomLeftPtr 9 19
    BottomRightPtr 11 19
 11 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 12 18
    PrevPtr 10 18
@@ -6941,7 +6941,7 @@
    BottomLeftPtr 10 19
    BottomRightPtr 12 19
 12 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 18
    PrevPtr 11 18
@@ -6993,7 +6993,7 @@
    BottomLeftPtr 14 19
    BottomRightPtr 16 19
 16 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 18
    PrevPtr 15 18
@@ -7006,7 +7006,7 @@
    BottomLeftPtr 15 19
    BottomRightPtr 17 19
 17 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 18 18
    PrevPtr 16 18
@@ -7032,7 +7032,7 @@
    BottomLeftPtr 17 19
    BottomRightPtr 19 19
 19 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 18
    PrevPtr 18 18
@@ -7045,7 +7045,7 @@
    BottomLeftPtr 18 19
    BottomRightPtr 20 19
 20 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 18
    PrevPtr 19 18
@@ -7058,7 +7058,7 @@
    BottomLeftPtr 19 19
    BottomRightPtr 21 19
 21 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 22 18
    PrevPtr 20 18
@@ -7071,7 +7071,7 @@
    BottomLeftPtr 20 19
    BottomRightPtr 22 19
 22 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 18
    PrevPtr 21 18
@@ -7097,7 +7097,7 @@
    BottomLeftPtr 22 19
    BottomRightPtr 24 19
 24 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 18
    PrevPtr 23 18
@@ -7110,7 +7110,7 @@
    BottomLeftPtr 23 19
    BottomRightPtr 25 19
 25 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 18
    PrevPtr 24 18
@@ -7136,7 +7136,7 @@
    BottomLeftPtr 25 19
    BottomRightPtr 27 19
 27 18 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 18
    PrevPtr 26 18
@@ -7149,7 +7149,7 @@
    BottomLeftPtr 26 19
    BottomRightPtr 28 19
 28 18 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 19
    PrevPtr 27 18
@@ -7162,7 +7162,7 @@
    BottomLeftPtr 27 19
    BottomRightPtr NULL
 0 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 19
    PrevPtr 28 18
@@ -7201,7 +7201,7 @@
    BottomLeftPtr 1 20
    BottomRightPtr 3 20
 3 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 19
    PrevPtr 2 19
@@ -7214,7 +7214,7 @@
    BottomLeftPtr 2 20
    BottomRightPtr 4 20
 4 19 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 19
    PrevPtr 3 19
@@ -7266,7 +7266,7 @@
    BottomLeftPtr 6 20
    BottomRightPtr 8 20
 8 19 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 19
    PrevPtr 7 19
@@ -7279,7 +7279,7 @@
    BottomLeftPtr 7 20
    BottomRightPtr 9 20
 9 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 19
    PrevPtr 8 19
@@ -7318,7 +7318,7 @@
    BottomLeftPtr 10 20
    BottomRightPtr 12 20
 12 19 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 19
    PrevPtr 11 19
@@ -7331,7 +7331,7 @@
    BottomLeftPtr 11 20
    BottomRightPtr 13 20
 13 19 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 19
    PrevPtr 12 19
@@ -7344,7 +7344,7 @@
    BottomLeftPtr 12 20
    BottomRightPtr 14 20
 14 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 19
    PrevPtr 13 19
@@ -7357,7 +7357,7 @@
    BottomLeftPtr 13 20
    BottomRightPtr 15 20
 15 19 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 16 19
    PrevPtr 14 19
@@ -7383,7 +7383,7 @@
    BottomLeftPtr 15 20
    BottomRightPtr 17 20
 17 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 19
    PrevPtr 16 19
@@ -7422,7 +7422,7 @@
    BottomLeftPtr 18 20
    BottomRightPtr 20 20
 20 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 19
    PrevPtr 19 19
@@ -7461,7 +7461,7 @@
    BottomLeftPtr 21 20
    BottomRightPtr 23 20
 23 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 19
    PrevPtr 22 19
@@ -7474,7 +7474,7 @@
    BottomLeftPtr 22 20
    BottomRightPtr 24 20
 24 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 19
    PrevPtr 23 19
@@ -7500,7 +7500,7 @@
    BottomLeftPtr 24 20
    BottomRightPtr 26 20
 26 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 19
    PrevPtr 25 19
@@ -7526,7 +7526,7 @@
    BottomLeftPtr 26 20
    BottomRightPtr 28 20
 28 19 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 0 20
    PrevPtr 27 19
@@ -7552,7 +7552,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 21
 1 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 20
    PrevPtr 0 20
@@ -7643,7 +7643,7 @@
    BottomLeftPtr 6 21
    BottomRightPtr 8 21
 8 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 20
    PrevPtr 7 20
@@ -7708,7 +7708,7 @@
    BottomLeftPtr 11 21
    BottomRightPtr 13 21
 13 20 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 20
    PrevPtr 12 20
@@ -7734,7 +7734,7 @@
    BottomLeftPtr 13 21
    BottomRightPtr 15 21
 15 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 16 20
    PrevPtr 14 20
@@ -7747,7 +7747,7 @@
    BottomLeftPtr 14 21
    BottomRightPtr 16 21
 16 20 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 20
    PrevPtr 15 20
@@ -7786,7 +7786,7 @@
    BottomLeftPtr 17 21
    BottomRightPtr 19 21
 19 20 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 20
    PrevPtr 18 20
@@ -7799,7 +7799,7 @@
    BottomLeftPtr 18 21
    BottomRightPtr 20 21
 20 20 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 20
    PrevPtr 19 20
@@ -7825,7 +7825,7 @@
    BottomLeftPtr 20 21
    BottomRightPtr 22 21
 22 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 23 20
    PrevPtr 21 20
@@ -7838,7 +7838,7 @@
    BottomLeftPtr 21 21
    BottomRightPtr 23 21
 23 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 24 20
    PrevPtr 22 20
@@ -7877,7 +7877,7 @@
    BottomLeftPtr 24 21
    BottomRightPtr 26 21
 26 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 27 20
    PrevPtr 25 20
@@ -7903,7 +7903,7 @@
    BottomLeftPtr 26 21
    BottomRightPtr 28 21
 28 20 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 21
    PrevPtr 27 20
@@ -7916,7 +7916,7 @@
    BottomLeftPtr 27 21
    BottomRightPtr NULL
 0 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 21
    PrevPtr 28 20
@@ -7929,7 +7929,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 22
 1 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 2 21
    PrevPtr 0 21
@@ -7942,7 +7942,7 @@
    BottomLeftPtr 0 22
    BottomRightPtr 2 22
 2 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 21
    PrevPtr 1 21
@@ -8007,7 +8007,7 @@
    BottomLeftPtr 5 22
    BottomRightPtr 7 22
 7 21 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 21
    PrevPtr 6 21
@@ -8111,7 +8111,7 @@
    BottomLeftPtr 13 22
    BottomRightPtr 15 22
 15 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 21
    PrevPtr 14 21
@@ -8150,7 +8150,7 @@
    BottomLeftPtr 16 22
    BottomRightPtr 18 22
 18 21 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 21
    PrevPtr 17 21
@@ -8163,7 +8163,7 @@
    BottomLeftPtr 17 22
    BottomRightPtr 19 22
 19 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 21
    PrevPtr 18 21
@@ -8202,7 +8202,7 @@
    BottomLeftPtr 20 22
    BottomRightPtr 22 22
 22 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 23 21
    PrevPtr 21 21
@@ -8228,7 +8228,7 @@
    BottomLeftPtr 22 22
    BottomRightPtr 24 22
 24 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 21
    PrevPtr 23 21
@@ -8267,7 +8267,7 @@
    BottomLeftPtr 25 22
    BottomRightPtr 27 22
 27 21 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 28 21
    PrevPtr 26 21
@@ -8280,7 +8280,7 @@
    BottomLeftPtr 26 22
    BottomRightPtr 28 22
 28 21 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 0 22
    PrevPtr 27 21
@@ -8293,7 +8293,7 @@
    BottomLeftPtr 27 22
    BottomRightPtr NULL
 0 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 22
    PrevPtr 28 21
@@ -8306,7 +8306,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 23
 1 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 22
    PrevPtr 0 22
@@ -8319,7 +8319,7 @@
    BottomLeftPtr 0 23
    BottomRightPtr 2 23
 2 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 22
    PrevPtr 1 22
@@ -8358,7 +8358,7 @@
    BottomLeftPtr 3 23
    BottomRightPtr 5 23
 5 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 22
    PrevPtr 4 22
@@ -8384,7 +8384,7 @@
    BottomLeftPtr 5 23
    BottomRightPtr 7 23
 7 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 22
    PrevPtr 6 22
@@ -8449,7 +8449,7 @@
    BottomLeftPtr 10 23
    BottomRightPtr 12 23
 12 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 22
    PrevPtr 11 22
@@ -8475,7 +8475,7 @@
    BottomLeftPtr 12 23
    BottomRightPtr 14 23
 14 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 22
    PrevPtr 13 22
@@ -8488,7 +8488,7 @@
    BottomLeftPtr 13 23
    BottomRightPtr 15 23
 15 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 22
    PrevPtr 14 22
@@ -8501,7 +8501,7 @@
    BottomLeftPtr 14 23
    BottomRightPtr 16 23
 16 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 22
    PrevPtr 15 22
@@ -8514,7 +8514,7 @@
    BottomLeftPtr 15 23
    BottomRightPtr 17 23
 17 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 22
    PrevPtr 16 22
@@ -8527,7 +8527,7 @@
    BottomLeftPtr 16 23
    BottomRightPtr 18 23
 18 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 19 22
    PrevPtr 17 22
@@ -8553,7 +8553,7 @@
    BottomLeftPtr 18 23
    BottomRightPtr 20 23
 20 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 22
    PrevPtr 19 22
@@ -8566,7 +8566,7 @@
    BottomLeftPtr 19 23
    BottomRightPtr 21 23
 21 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 22 22
    PrevPtr 20 22
@@ -8579,7 +8579,7 @@
    BottomLeftPtr 20 23
    BottomRightPtr 22 23
 22 22 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 23 22
    PrevPtr 21 22
@@ -8605,7 +8605,7 @@
    BottomLeftPtr 22 23
    BottomRightPtr 24 23
 24 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 22
    PrevPtr 23 22
@@ -8618,7 +8618,7 @@
    BottomLeftPtr 23 23
    BottomRightPtr 25 23
 25 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 22
    PrevPtr 24 22
@@ -8631,7 +8631,7 @@
    BottomLeftPtr 24 23
    BottomRightPtr 26 23
 26 22 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 27 22
    PrevPtr 25 22
@@ -8670,7 +8670,7 @@
    BottomLeftPtr 27 23
    BottomRightPtr NULL
 0 23 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 23
    PrevPtr 28 22
@@ -8709,7 +8709,7 @@
    BottomLeftPtr 1 24
    BottomRightPtr 3 24
 3 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 23
    PrevPtr 2 23
@@ -8722,7 +8722,7 @@
    BottomLeftPtr 2 24
    BottomRightPtr 4 24
 4 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 5 23
    PrevPtr 3 23
@@ -8735,7 +8735,7 @@
    BottomLeftPtr 3 24
    BottomRightPtr 5 24
 5 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 23
    PrevPtr 4 23
@@ -8748,7 +8748,7 @@
    BottomLeftPtr 4 24
    BottomRightPtr 6 24
 6 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 23
    PrevPtr 5 23
@@ -8761,7 +8761,7 @@
    BottomLeftPtr 5 24
    BottomRightPtr 7 24
 7 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 8 23
    PrevPtr 6 23
@@ -8813,7 +8813,7 @@
    BottomLeftPtr 9 24
    BottomRightPtr 11 24
 11 23 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 12 23
    PrevPtr 10 23
@@ -8826,7 +8826,7 @@
    BottomLeftPtr 10 24
    BottomRightPtr 12 24
 12 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 23
    PrevPtr 11 23
@@ -8878,7 +8878,7 @@
    BottomLeftPtr 14 24
    BottomRightPtr 16 24
 16 23 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 17 23
    PrevPtr 15 23
@@ -8917,7 +8917,7 @@
    BottomLeftPtr 17 24
    BottomRightPtr 19 24
 19 23 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 23
    PrevPtr 18 23
@@ -8969,7 +8969,7 @@
    BottomLeftPtr 21 24
    BottomRightPtr 23 24
 23 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 23
    PrevPtr 22 23
@@ -8982,7 +8982,7 @@
    BottomLeftPtr 22 24
    BottomRightPtr 24 24
 24 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 23
    PrevPtr 23 23
@@ -8995,7 +8995,7 @@
    BottomLeftPtr 23 24
    BottomRightPtr 25 24
 25 23 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 23
    PrevPtr 24 23
@@ -9008,7 +9008,7 @@
    BottomLeftPtr 24 24
    BottomRightPtr 26 24
 26 23 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 27 23
    PrevPtr 25 23
@@ -9034,7 +9034,7 @@
    BottomLeftPtr 26 24
    BottomRightPtr 28 24
 28 23 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 0 24
    PrevPtr 27 23
@@ -9047,7 +9047,7 @@
    BottomLeftPtr 27 24
    BottomRightPtr NULL
 0 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 24
    PrevPtr 28 23
@@ -9060,7 +9060,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 25
 1 24 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 24
    PrevPtr 0 24
@@ -9086,7 +9086,7 @@
    BottomLeftPtr 1 25
    BottomRightPtr 3 25
 3 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 24
    PrevPtr 2 24
@@ -9112,7 +9112,7 @@
    BottomLeftPtr 3 25
    BottomRightPtr 5 25
 5 24 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 6 24
    PrevPtr 4 24
@@ -9125,7 +9125,7 @@
    BottomLeftPtr 4 25
    BottomRightPtr 6 25
 6 24 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 24
    PrevPtr 5 24
@@ -9151,7 +9151,7 @@
    BottomLeftPtr 6 25
    BottomRightPtr 8 25
 8 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 9 24
    PrevPtr 7 24
@@ -9177,7 +9177,7 @@
    BottomLeftPtr 8 25
    BottomRightPtr 10 25
 10 24 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 11 24
    PrevPtr 9 24
@@ -9242,7 +9242,7 @@
    BottomLeftPtr 13 25
    BottomRightPtr 15 25
 15 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 24
    PrevPtr 14 24
@@ -9268,7 +9268,7 @@
    BottomLeftPtr 15 25
    BottomRightPtr 17 25
 17 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 24
    PrevPtr 16 24
@@ -9307,7 +9307,7 @@
    BottomLeftPtr 18 25
    BottomRightPtr 20 25
 20 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 24
    PrevPtr 19 24
@@ -9320,7 +9320,7 @@
    BottomLeftPtr 19 25
    BottomRightPtr 21 25
 21 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 24
    PrevPtr 20 24
@@ -9346,7 +9346,7 @@
    BottomLeftPtr 21 25
    BottomRightPtr 23 25
 23 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 24 24
    PrevPtr 22 24
@@ -9359,7 +9359,7 @@
    BottomLeftPtr 22 25
    BottomRightPtr 24 25
 24 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 25 24
    PrevPtr 23 24
@@ -9372,7 +9372,7 @@
    BottomLeftPtr 23 25
    BottomRightPtr 25 25
 25 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 24
    PrevPtr 24 24
@@ -9398,7 +9398,7 @@
    BottomLeftPtr 25 25
    BottomRightPtr 27 25
 27 24 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 24
    PrevPtr 26 24
@@ -9424,7 +9424,7 @@
    BottomLeftPtr 27 25
    BottomRightPtr NULL
 0 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 1 25
    PrevPtr 28 24
@@ -9437,7 +9437,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 26
 1 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 25
    PrevPtr 0 25
@@ -9450,7 +9450,7 @@
    BottomLeftPtr 0 26
    BottomRightPtr 2 26
 2 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 25
    PrevPtr 1 25
@@ -9463,7 +9463,7 @@
    BottomLeftPtr 1 26
    BottomRightPtr 3 26
 3 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 25
    PrevPtr 2 25
@@ -9476,7 +9476,7 @@
    BottomLeftPtr 2 26
    BottomRightPtr 4 26
 4 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 25
    PrevPtr 3 25
@@ -9489,7 +9489,7 @@
    BottomLeftPtr 3 26
    BottomRightPtr 5 26
 5 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 6 25
    PrevPtr 4 25
@@ -9515,7 +9515,7 @@
    BottomLeftPtr 5 26
    BottomRightPtr 7 26
 7 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 8 25
    PrevPtr 6 25
@@ -9541,7 +9541,7 @@
    BottomLeftPtr 7 26
    BottomRightPtr 9 26
 9 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 10 25
    PrevPtr 8 25
@@ -9567,7 +9567,7 @@
    BottomLeftPtr 9 26
    BottomRightPtr 11 26
 11 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 12 25
    PrevPtr 10 25
@@ -9580,7 +9580,7 @@
    BottomLeftPtr 10 26
    BottomRightPtr 12 26
 12 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 13 25
    PrevPtr 11 25
@@ -9593,7 +9593,7 @@
    BottomLeftPtr 11 26
    BottomRightPtr 13 26
 13 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 25
    PrevPtr 12 25
@@ -9606,7 +9606,7 @@
    BottomLeftPtr 12 26
    BottomRightPtr 14 26
 14 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 25
    PrevPtr 13 25
@@ -9619,7 +9619,7 @@
    BottomLeftPtr 13 26
    BottomRightPtr 15 26
 15 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 16 25
    PrevPtr 14 25
@@ -9645,7 +9645,7 @@
    BottomLeftPtr 15 26
    BottomRightPtr 17 26
 17 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 25
    PrevPtr 16 25
@@ -9658,7 +9658,7 @@
    BottomLeftPtr 16 26
    BottomRightPtr 18 26
 18 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 25
    PrevPtr 17 25
@@ -9697,7 +9697,7 @@
    BottomLeftPtr 19 26
    BottomRightPtr 21 26
 21 25 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 22 25
    PrevPtr 20 25
@@ -9736,7 +9736,7 @@
    BottomLeftPtr 22 26
    BottomRightPtr 24 26
 24 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 25
    PrevPtr 23 25
@@ -9749,7 +9749,7 @@
    BottomLeftPtr 23 26
    BottomRightPtr 25 26
 25 25 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 26 25
    PrevPtr 24 25
@@ -9801,7 +9801,7 @@
    BottomLeftPtr 27 26
    BottomRightPtr NULL
 0 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 1 26
    PrevPtr 28 25
@@ -9814,7 +9814,7 @@
    BottomLeftPtr NULL
    BottomRightPtr 1 27
 1 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 2 26
    PrevPtr 0 26
@@ -9853,7 +9853,7 @@
    BottomLeftPtr 2 27
    BottomRightPtr 4 27
 4 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 26
    PrevPtr 3 26
@@ -9866,7 +9866,7 @@
    BottomLeftPtr 3 27
    BottomRightPtr 5 27
 5 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 26
    PrevPtr 4 26
@@ -9879,7 +9879,7 @@
    BottomLeftPtr 4 27
    BottomRightPtr 6 27
 6 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 26
    PrevPtr 5 26
@@ -9905,7 +9905,7 @@
    BottomLeftPtr 6 27
    BottomRightPtr 8 27
 8 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 26
    PrevPtr 7 26
@@ -9944,7 +9944,7 @@
    BottomLeftPtr 9 27
    BottomRightPtr 11 27
 11 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 12 26
    PrevPtr 10 26
@@ -9970,7 +9970,7 @@
    BottomLeftPtr 11 27
    BottomRightPtr 13 27
 13 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 14 26
    PrevPtr 12 26
@@ -9983,7 +9983,7 @@
    BottomLeftPtr 12 27
    BottomRightPtr 14 27
 14 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 15 26
    PrevPtr 13 26
@@ -10009,7 +10009,7 @@
    BottomLeftPtr 14 27
    BottomRightPtr 16 27
 16 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 17 26
    PrevPtr 15 26
@@ -10022,7 +10022,7 @@
    BottomLeftPtr 15 27
    BottomRightPtr 17 27
 17 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 18 26
    PrevPtr 16 26
@@ -10035,7 +10035,7 @@
    BottomLeftPtr 16 27
    BottomRightPtr 18 27
 18 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 26
    PrevPtr 17 26
@@ -10048,7 +10048,7 @@
    BottomLeftPtr 17 27
    BottomRightPtr 19 27
 19 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 26
    PrevPtr 18 26
@@ -10061,7 +10061,7 @@
    BottomLeftPtr 18 27
    BottomRightPtr 20 27
 20 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 21 26
    PrevPtr 19 26
@@ -10087,7 +10087,7 @@
    BottomLeftPtr 20 27
    BottomRightPtr 22 27
 22 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 23 26
    PrevPtr 21 26
@@ -10100,7 +10100,7 @@
    BottomLeftPtr 21 27
    BottomRightPtr 23 27
 23 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 24 26
    PrevPtr 22 26
@@ -10126,7 +10126,7 @@
    BottomLeftPtr 23 27
    BottomRightPtr 25 27
 25 26 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 26
    PrevPtr 24 26
@@ -10152,7 +10152,7 @@
    BottomLeftPtr 25 27
    BottomRightPtr 27 27
 27 26 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 28 26
    PrevPtr 26 26
@@ -10204,7 +10204,7 @@
    BottomLeftPtr 0 28
    BottomRightPtr 2 28
 2 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 3 27
    PrevPtr 1 27
@@ -10217,7 +10217,7 @@
    BottomLeftPtr 1 28
    BottomRightPtr 3 28
 3 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 4 27
    PrevPtr 2 27
@@ -10243,7 +10243,7 @@
    BottomLeftPtr 3 28
    BottomRightPtr 5 28
 5 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 6 27
    PrevPtr 4 27
@@ -10256,7 +10256,7 @@
    BottomLeftPtr 4 28
    BottomRightPtr 6 28
 6 27 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 7 27
    PrevPtr 5 27
@@ -10269,7 +10269,7 @@
    BottomLeftPtr 5 28
    BottomRightPtr 7 28
 7 27 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 8 27
    PrevPtr 6 27
@@ -10282,7 +10282,7 @@
    BottomLeftPtr 6 28
    BottomRightPtr 8 28
 8 27 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 27
    PrevPtr 7 27
@@ -10334,7 +10334,7 @@
    BottomLeftPtr 10 28
    BottomRightPtr 12 28
 12 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 13 27
    PrevPtr 11 27
@@ -10347,7 +10347,7 @@
    BottomLeftPtr 11 28
    BottomRightPtr 13 28
 13 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 14 27
    PrevPtr 12 27
@@ -10373,7 +10373,7 @@
    BottomLeftPtr 13 28
    BottomRightPtr 15 28
 15 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 16 27
    PrevPtr 14 27
@@ -10399,7 +10399,7 @@
    BottomLeftPtr 15 28
    BottomRightPtr 17 28
 17 27 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 18 27
    PrevPtr 16 27
@@ -10425,7 +10425,7 @@
    BottomLeftPtr 17 28
    BottomRightPtr 19 28
 19 27 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 20 27
    PrevPtr 18 27
@@ -10503,7 +10503,7 @@
    BottomLeftPtr 23 28
    BottomRightPtr 25 28
 25 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 27
    PrevPtr 24 27
@@ -10516,7 +10516,7 @@
    BottomLeftPtr 24 28
    BottomRightPtr 26 28
 26 27 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 27 27
    PrevPtr 25 27
@@ -10529,7 +10529,7 @@
    BottomLeftPtr 25 28
    BottomRightPtr 27 28
 27 27 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 28 27
    PrevPtr 26 27
@@ -10581,7 +10581,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 2 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 3 28
    PrevPtr 1 28
@@ -10594,7 +10594,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 3 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 4 28
    PrevPtr 2 28
@@ -10607,7 +10607,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 4 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 5 28
    PrevPtr 3 28
@@ -10633,7 +10633,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 6 28 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 7 28
    PrevPtr 5 28
@@ -10659,7 +10659,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 8 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 9 28
    PrevPtr 7 28
@@ -10672,7 +10672,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 9 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 10 28
    PrevPtr 8 28
@@ -10685,7 +10685,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 10 28 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 11 28
    PrevPtr 9 28
@@ -10698,7 +10698,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 11 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 12 28
    PrevPtr 10 28
@@ -10789,7 +10789,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 18 28 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 19 28
    PrevPtr 17 28
@@ -10802,7 +10802,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 19 28 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 20 28
    PrevPtr 18 28
@@ -10867,7 +10867,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 24 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 25 28
    PrevPtr 23 28
@@ -10880,7 +10880,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 25 28 
-   State 1
+   State 0
    Live Neighbors 0
    NextPtr 26 28
    PrevPtr 24 28
@@ -10893,7 +10893,7 @@
    BottomLeftPtr NULL
    BottomRightPtr NULL
 26 28 
-   State 0
+   State 1
    Live Neighbors 0
    NextPtr 27 28
    PrevPtr 25 28
