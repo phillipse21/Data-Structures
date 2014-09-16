@@ -1,0 +1,75 @@
+1 Cashier & 1 Line: 
+   30 minutes: 
+      Customers served: 7
+      Average wait: 0.2 minute(s)
+      Longest wait: 0.6 minute(s)
+
+
+   60 minutes: 
+      Customers served: 12
+      Average wait: 0.4 minute(s)
+      Longest wait: 1 minute(s)
+
+
+   120 minutes: 
+      Customers served: 27
+      Average wait: 1 minute(s)
+      Longest wait: 2.2 minute(s)
+
+
+   480 minutes: 
+      Customers served: 97
+      Average wait: 4 minute(s)
+      Longest wait: 8.4 minute(s)
+
+
+Multiple Cashiers & multiple lines
+   30 minutes: 
+      Customers served: 12
+      Average wait: 0.6 minute(s)
+      Longest wait: 1.2 minute(s)
+
+
+   40 minutes: 
+      Customers served: 14
+      Average wait: 0.4 minute(s)
+      Longest wait: 1 minute(s)
+
+
+   120 minutes: 
+      Customers served: 65
+      Average wait: 1.8 minute(s)
+      Longest wait: 3.8 minute(s)
+
+
+   480 minutes: 
+      Customers served: 268
+      Average wait: 8.8 minute(s)
+      Longest wait: 18 minute(s)
+
+
+Multiple Cashiers & 1 Line
+   30 minutes: 
+      Customers served: 20
+      Average wait: 0.4 minute(s)
+      Longest wait: 1.2 minute(s)
+
+
+   40 minutes: 
+      Customers served: 23
+      Average wait: 0.4 minute(s)
+      Longest wait: 1.2 minute(s)
+
+
+   120 minutes: 
+      Customers served: 48
+      Average wait: 1.4 minute(s)
+      Longest wait: 3.2 minute(s)
+
+
+   480 minutes: 
+      Customers served: 273
+      Average wait: 8.2 minute(s)
+      Longest wait: 17 minute(s)
+
+
